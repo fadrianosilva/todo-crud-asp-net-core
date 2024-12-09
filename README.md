@@ -1,1 +1,1 @@
-# CRUD Básico com ASP.NET Core, EntityFrameword, criação de views utilziando o Razor e Bootstratp 
+# CRUD Básico com ASP.NET Core, EntityFramework, criação de views utilizando o Razor e Bootstratp 
